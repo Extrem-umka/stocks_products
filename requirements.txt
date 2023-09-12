@@ -1,6 +1,6 @@
-django
+django==4.2.4
 djangorestframework
 psycopg2-binary
 flake8
 gunicorn
-
+django-filter
